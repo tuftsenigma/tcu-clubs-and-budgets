@@ -1,0 +1,879 @@
+{
+    "pages": {
+        "TuftsConfessions": 117787288404239, 
+        "clubs": {
+            "Consent Culture Network\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Relay for Life\n": {
+                "FBid": "130973987006343", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/074/original/RelayForLife_623F.xlsx?1409431837"
+            }, 
+            "Pre-Veterinary Society\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/108/original/Prevet_738F.xlsx?1409434926"
+            }, 
+            "LIFT\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/076/original/LIFT_629F.xlsx?1409431868"
+            }, 
+            "United for Immigrant Justice\n": {
+                "FBid": "359983490823494", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "VOX: Voices for Choice\n": {
+                "FBid": "", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/125/original/VOX_831F.xlsx?1409433661"
+            }, 
+            "Caribbean Club\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/139/original/Carribean_Club_Final_FY15_Budget.xls?1409431313"
+            }, 
+            "Chabad\n": {
+                "FBid": "272554819520708", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/031/original/Chabad_405F.xls?1409430857"
+            }, 
+            "Teach-in-CORES\n": {
+                "FBid": "215208701862508", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/150/original/CORES_650F.xls?1409433484"
+            }, 
+            "Sarabande\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/057/original/SARAHBANDE_FY14_FINAL_copy.xls?1380914864"
+            }, 
+            "Students for Sensible Drug Policy\n": {
+                "FBid": "586073308076864", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/119/original/SSDP_811F.xlsx?1409433162"
+            }, 
+            "SoC\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/059/original/SPIRITOFCOLOR_FY14_FINAL.xls?1380914934"
+            }, 
+            "Queer Straight Alliance \n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/160/original/QSA_Final_FY15_Budget.xlsx?1409434459"
+            }, 
+            "Art History Society\n": {
+                "FBid": "166510780027795", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/093/original/AHS_701F.xls?1409434437"
+            }, 
+            "Imaginet\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/096/original/Imaginet_707F.xlsx?1409434536"
+            }, 
+            "Hong Kong Students Association\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/143/original/hksa_Final_budgetFY15.xls?1409431960"
+            }, 
+            "TuftScope\n": {
+                "FBid": "133886394739", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/018/original/TUFTSCOPE_budget_proposal_final.xlsx?1409430898"
+            }, 
+            "LCS\n": {
+                "FBid": "277490535620647", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/068/original/LCS_606F.xlsx?1409431564"
+            }, 
+            "CAF\u00c9\n": {
+                "FBid": "361284354062725", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/028/original/CAFE_401F.xls?1409430803"
+            }, 
+            "Robotics Club\n": {
+                "FBid": "177574662345166", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/078/original/RoboticsClub_633F.xlsx?1409431915"
+            }, 
+            "Inter-Greek Council\n": {
+                "FBid": "166261306761364", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/005/original/Inter-Greek_Council_204_FY15.xlsx?1409430381"
+            }, 
+            "Essence\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/051/original/ESSENCE_FY14_FINAL.numbers?1380914767"
+            }, 
+            "NIMEP\n": {
+                "FBid": "", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/124/original/NIMEP_FY14_FINAL.xls?1380919277"
+            }, 
+            "Roosevelt Institute at Tufts\n": {
+                "FBid": "152201851672", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/157/original/ROOSEVELT_803F.xlsx?1409434097"
+            }, 
+            "Parnassus\n": {
+                "FBid": "280731555385343", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Hawaii Club\n": {
+                "FBid": "328125583982206", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/142/original/THC_2015_Final_Budget_DRAFT2.xlsx?1409431742"
+            }, 
+            "Tufts Labor Coalition\n": {
+                "FBid": "189693401111014", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/117/original/TLC_809F.xls?1409433023"
+            }, 
+            "Wind Ensemble\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/064/original/WINDENSEMBLE_FY14_FINAL.numbers?1380915062"
+            }, 
+            "Burlesque Troupe\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/042/original/BurlesqueTroupe_506FY15.xls?1409431276"
+            }, 
+            "LiNK\n": {
+                "FBid": "355000231251345", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/154/original/LiNK_835F.xlsx?1409433887"
+            }, 
+            "Apple jam\n": {
+                "FBid": "", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/004/original/AppleJam_202_FY15.xlsx?1409430265"
+            }, 
+            "Tabletop Gaming Club\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Budhist Sangha\n": {
+                "FBid": "", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/030/original/BuddhistSangha_403F.xls?1409430845"
+            }, 
+            "BEATS\n": {
+                "FBid": "166342083514974", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/041/original/BEATS_505FY15.xls?1409431256"
+            }, 
+            "Asian American Alliance \n": {
+                "FBid": "384383778249031", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/131/original/AAA_FY2015_Final_Budget.xlsx?1409430853"
+            }, 
+            "ALLIES\n": {
+                "FBid": "", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/114/original/ALLIES_802F.xlsx?1409432918"
+            }, 
+            "Urban Policy and Planning\n": {
+                "FBid": "483111491753334", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/106/original/UP3_727F.xlsx?1409434868"
+            }, 
+            "Torn Ticket II\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/061/original/TORNTICKET_FY14_FINAL.xls?1380915008"
+            }, 
+            "CAF\u00c9\n": {
+                "FBid": "361284354062725", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/028/original/CAFE_401F.xls?1409430803"
+            }, 
+            "Gaming Hub\n": {
+                "FBid": "342990879158870", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Cheese Club\n": {
+                "FBid": "388582927958743", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Amnesty International\n": {
+                "FBid": "109041352589638", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/116/original/AMNESTYINTERNATIONAL_806F.xlsx?1409432976"
+            }, 
+            "Zamboni\n": {
+                "FBid": "118054574920029", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/024/original/Zamboni_FY2015_Final_Budget.xlsx?1409431012"
+            }, 
+            "Returning Students Organization\n": {
+                "FBid": "138017910336", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/013/original/Returning_Students_Organization_230_FY15.xlsx?1409430561"
+            }, 
+            "Hillel\n": {
+                "FBid": "122194287831951", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/032/original/Hillel_406F.xlsx?1409430881"
+            }, 
+            "Tufts Republicans\n": {
+                "FBid": "137920322915380", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/123/original/TUFTSREPUBLICANS_FY14_FINAL.xls?1380919257"
+            }, 
+            "MAKE\n": {
+                "FBid": "114205425408011", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Primary Care Progress\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Traveler\n": {
+                "FBid": "136155416442892", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/023/original/TRAVELER_FY15_Budget_Final.xlsx?1409430982"
+            }, 
+            "Tufts Health Advocates\n": {
+                "FBid": "678593972230258", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/158/original/THA_820F.xlsx?1409434147"
+            }, 
+            "Entertainment Board\n": {
+                "FBid": "522987824384949", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/008/original/Entertainment_Board_212_FY15.xlsx?1409430457"
+            }, 
+            "Korean Students Association \n": {
+                "FBid": "198330923619173", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/147/original/KSA_Final_Budget_FY_14-15.xls?1409433290"
+            }, 
+            "ASME\n": {
+                "FBid": "174313939431534", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/097/original/ASME_F14_final.xls?1380918166"
+            }, 
+            "Hype\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/054/original/HYPE_FY14_FINAL.numbers?1380914821"
+            }, 
+            "Economics Society\n": {
+                "FBid": "772338526145501", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/113/original/EC_SOCIETY_714F.xlsx?1409434646"
+            }, 
+            "Freethought Society\n": {
+                "FBid": "143841088991605", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/035/original/Freethought_410F.xlsx?1409430925"
+            }, 
+            "Autism Speaks\n": {
+                "FBid": "1481212362115952", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/148/original/AutismSpeaks_660F.xls?1409433338"
+            }, 
+            "sQ!\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/060/original/SQ_FY14_FINAL.xls?1380914950"
+            }, 
+            "Historical Review\n": {
+                "FBid": "372741722890998", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "IEEE\n": {
+                "FBid": "841616852538013", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/112/original/IEEE_718F.xls?1409434687"
+            }, 
+            "Tufts Association of South Asians \n": {
+                "FBid": "547996028578993", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/165/original/TASA_Final_budget_FY2015.xls?1409434730"
+            }, 
+            "Bare Bodkin\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/040/original/BareBodkin_504FY15.xls?1409431239"
+            }, 
+            "HAPA\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/140/original/Hapa_Final_Fy15Budget.xls?1409431533"
+            }, 
+            "Tufts Democrats\n": {
+                "FBid": "152116734816527", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/118/original/TuftsDemocrats_810F.xlsx?1409433127"
+            }, 
+            "International Club\n": {
+                "FBid": "1411131615770809", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/145/original/International_Club_Final_FY15Budget.xlsx?1409433001"
+            }, 
+            "Hindu Students Council\n": {
+                "FBid": "296669367191030", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/033/original/HinduStudentCouncil_407F.xlsx?1409430891"
+            }, 
+            "Futurism Society\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/151/original/Futurism_658F.xlsx?1409433559"
+            }, 
+            "Magic the Gathering\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/091/original/MagicTheGathering_654F.xlsx?1409433091"
+            }, 
+            "Podcast Network\n": {
+                "FBid": "522605531143617", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Russian Circle\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/161/original/Russian_Final_FY15Budget.xlsx?1409434496"
+            }, 
+            "Catholic Community at Tufts\n": {
+                "FBid": "145679205467481", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/133/original/CCT_404F.xlsx?1409430972"
+            }, 
+            "Major Undecided\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/056/original/MAJORUNDECIDED_FY14_FINAL.xls?1380914850"
+            }, 
+            "Her Campus\n": {
+                "FBid": "192977577397940", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Tufts Bikes\n": {
+                "FBid": "155529107824129", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/082/original/TuftsBikes_643F.xlsx?1409432452"
+            }, 
+            "Generation Citizen\n": {
+                "FBid": "859688230716465", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/152/original/GenerationCitizen_659F.xls?1409433598"
+            }, 
+            "Anchord\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/037/original/Anchord_501FY15.xls?1409431125"
+            }, 
+            "TURBO\n": {
+                "FBid": "445938342132289", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/063/original/TURBO_FY14_FINAL.xls?1380915038"
+            }, 
+            "Pep Band\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/055/original/PEPBAND_FY14_FINAL.xls?1380914833"
+            }, 
+            "Film Series\n": {
+                "FBid": "203567880014", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/010/original/Film_Series_216_FY15.xlsx?1409430480"
+            }, 
+            "Concert Board\n": {
+                "FBid": "46963633096", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/007/original/Concert_Board_210_FY15.xlsx?1409430418"
+            }, 
+            "Association of Latin American Students \n": {
+                "FBid": "1384916681751184", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/134/original/ALAS_Final_FY15_budget_.xlsx?1409430990"
+            }, 
+            "JumboCast\n": {
+                "FBid": "461814390539757", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/025/original/JUMBOCAST_FY15_Final.xlsx?1409431026"
+            }, 
+            "Engineers Without Boarders\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/099/original/EWB_715F.xls?1409434664"
+            }, 
+            "Junior Class Council\n": {
+                "FBid": "", 
+                "council": "programming", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Senior Class Council\n": {
+                "FBid": "120870714643896", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/130/original/Senior_Class_Council_224_FY15.xlsx?1409430727"
+            }, 
+            "Science Fiction and Fantasy Society\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/155/original/ScienceFictionAndFantasySociety_618F.xls?1409433973"
+            }, 
+            "Global China Connection\n": {
+                "FBid": "549752935107801", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/085/original/GlobalChinaConnection_647F.xls?1409432872"
+            }, 
+            "Anime Brigade\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/083/original/AnimeBrigade_644F.xlsx?1409432833"
+            }, 
+            "TCU Judiciary\n": {
+                "FBid": "", 
+                "council": "student_government", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/126/original/TCU_JUDICIARY_FY15_FINAL.xlsx?1409434234"
+            }, 
+            "S-Factor\n": {
+                "FBid": "208346282531685", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/058/original/SFACTOR_FY14_FINAL.xls?1380914891"
+            }, 
+            "Singaporean Students Association\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/162/original/SSA_Final_FY_15_Budget_Feb_25_(1).xlsx?1409434572"
+            }, 
+            "Active Minds\n": {
+                "FBid": "114522865367802", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/081/original/ActiveMinds_638F.xls?1409432394"
+            }, 
+            "Pulse\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/135/original/PULSE_Final_FY15_BUDGET.xls?1409431039"
+            }, 
+            "TDC\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/062/original/TDC_FY14_FINAL.numbers?1380915022"
+            }, 
+            "MAPS\n": {
+                "FBid": "375145555947853", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/122/original/MAPS_815F.xlsx?1409433285"
+            }, 
+            "Amalgamates\n": {
+                "FBid": "58397741489", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/038/original/Amalgamates_502FY15.xls?1409431157"
+            }, 
+            "Japanese Culture Club\n": {
+                "FBid": "258961384210575", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/153/original/Japanese_Culture_Club_FY_2015_FINAL.xlsx?1409433786"
+            }, 
+            "Sophomore Class Council\n": {
+                "FBid": "", 
+                "council": "programming", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Society of Women Engineers\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/110/original/SWE_744F.xls?1409435011"
+            }, 
+            "Cape Verdean Students Association \n": {
+                "FBid": "376010755742433", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/137/original/CVSA_FY_2015_Final_Budget.xlsx?1409431117"
+            }, 
+            "Sharewood Project\n": {
+                "FBid": "793338810725863", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/098/original/Sharewood_711F.xls?1409434622"
+            }, 
+            "ECOM\n": {
+                "FBid": "59900912798", 
+                "council": "student_government", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/128/original/TCU_ECOM_FY2015_Budget.xlsx?1409434220"
+            }, 
+            "Undergraduate Research Journal\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/019/original/Breakthrough_Prelim_Budget_FY15_Final.xls?1409430669"
+            }, 
+            "Public Journal\n": {
+                "FBid": "185086861626552", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/021/original/Public_Journal_Budget_FY2015_working.xls?1409430850"
+            }, 
+            "Protestant Student Fellowship\n": {
+                "FBid": "", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/036/original/PSA_412F.xlsx?1409430937"
+            }, 
+            "Model United Nations\n": {
+                "FBid": "174287660490", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/079/original/MODELUN_634F.xlsx?1409431932"
+            }, 
+            "J Street U\n": {
+                "FBid": "168307983309802", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/156/original/JStreet_821F.xls?1409434048"
+            }, 
+            "PHAT\n": {
+                "FBid": "228869653833438", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/109/original/Predental_739F.xls?1409434950"
+            }, 
+            "TUPAC\n": {
+                "FBid": "151089684983848", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/073/original/TUPAC_622F.xlsx?1409431785"
+            }, 
+            "Observer\n": {
+                "FBid": "167969852930", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/016/original/Observer_2015_Budget_Final.xlsx?1409430787"
+            }, 
+            "Balance Your Life\n": {
+                "FBid": "159426964106384", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/084/original/BalanceYourLife_645F.xls?1409432855"
+            }, 
+            "Irish Dance Team\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Pre-Legal Society\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/107/original/PreLawSociety_734F.xlsx?1409434890"
+            }, 
+            "Taiwanese Association of Students at Tufts \n": {
+                "FBid": "191459074332462", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/163/original/TAST_2015_Final_Budget_Editted.xls?1409434615"
+            }, 
+            "Freshman Class Council\n": {
+                "FBid": "", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/011/original/Freshman_Class_Council_218_FY15.xlsx?1409430505"
+            }, 
+            "ASCE\n": {
+                "FBid": "749602908448935", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/095/original/ASCE_706F.xlsx?1409434509"
+            }, 
+            "MAB\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/015/original/MEDIA_ADVOCACY_BOARD_FY15_Final.xlsx?1409430745"
+            }, 
+            "PostScript\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "La Salsa\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/053/original/LASALSA_FY14_FINAL.xls?1380914803"
+            }, 
+            "Muslim Students Association\n": {
+                "FBid": "", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/034/original/MSA_408F.xlsx?1409430908"
+            }, 
+            "Tufts University Unitarian Universalists\n": {
+                "FBid": "", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/029/original/TU3_402F.xls?1409430833"
+            }, 
+            "Math Club\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/104/original/mathclub_724F.xls?1409434813"
+            }, 
+            "Canon\n": {
+                "FBid": "327569153949887", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/020/original/Tufts_Canon_Budget_FY15_Final.xlsx?1409430837"
+            }, 
+            "Globe Med\n": {
+                "FBid": "269836313036093", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/103/original/GlobeMed_723F.xls?1409434789"
+            }, 
+            "Debate Society\n": {
+                "FBid": "257577597678764", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/066/original/Debate_603F.xlsx?1409431474"
+            }, 
+            "History Society\n": {
+                "FBid": "657263870980381", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/102/original/HISTORYSOCIETY_722F.xls?1409434754"
+            }, 
+            "Middle Eastern Dance\n": {
+                "FBid": "209016012611193", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/039/original/MiddleEastern_503FY15.xls?1409431218"
+            }, 
+            "Ears for Peers\n": {
+                "FBid": "248760501842203", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/067/original/EarsforPeers_604F.xls?1409431515"
+            }, 
+            "Friends Of Israel\n": {
+                "FBid": "306012469571870", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/121/original/FOI_814F.xls?1409433225"
+            }, 
+            "China Care\n": {
+                "FBid": "118585304884933", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/070/original/ChinaCare_613F.xls?1409431621"
+            }, 
+            "Love 146\n": {
+                "FBid": "276464085733033", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/090/original/Love146_653F.xls?1409433077"
+            }, 
+            "Campus Hope\n": {
+                "FBid": "162453923962113", 
+                "council": "religious", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/136/original/CampusHOPE_411F.xls?1409431089"
+            }, 
+            "Chinese Students Association \n": {
+                "FBid": "1397171453882959", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/141/original/2014-15_CSA_FY_F15_Final_Budget.xlsx?1409431657"
+            }, 
+            "Mock Trial\n": {
+                "FBid": "162723190440600", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/069/original/MockTrial_607F.xlsx?1409431581"
+            }, 
+            "Jumbo Jugglers\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/047/original/JumboJugglers_511FY15.xls?1409510924"
+            }, 
+            "Stand-Up Comedy Collective\n": {
+                "FBid": "364978008405", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/043/original/StandUpComedyCollective_507FY15.xls?1409431304"
+            }, 
+            "Strong Women Strong Girls\n": {
+                "FBid": "313694228745870", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "African Students Organization \n": {
+                "FBid": "146566932194127", 
+                "council": "cultural", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Brasil Club\n": {
+                "FBid": "205884662759461", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/132/original/Brasil_Final_FY15_budget.xlsx?1409430910"
+            }, 
+            "Programming Board\n": {
+                "FBid": "108313651456", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/009/original/Programming_Board_Exec_214_FY15.xlsx?1409430469"
+            }, 
+            "Blackout\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/052/original/BLACKOUT_FY14_FINAL.numbers?1380914790"
+            }, 
+            "Tap Ensemble\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/045/original/TapEnsemble_509FY15.xls?1409510815"
+            }, 
+            "Pan African Alliance \n": {
+                "FBid": "134702320018467", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/159/original/Pan-African_Alliance_FY2015_Final_Budget.xlsx?1409434420"
+            }, 
+            "German Club\n": {
+                "FBid": "", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/164/original/german_club_FY15_Final_Budget.xlsx?1409434680"
+            }, 
+            "WMFO\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/026/original/WMFO_TCU_Budget_FY2015_Final.xlsx?1409430999"
+            }, 
+            "Mixed Martial Arts\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Panhellenic Council\n": {
+                "FBid": "151883655011696", 
+                "council": "programming", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Cheap Sox\n": {
+                "FBid": "667557436616702", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/044/original/CheapSox_508FY15.xls?1409431352"
+            }, 
+            "Action for Sexual Assault Prevention \n": {
+                "FBid": "139869776060845", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/146/original/ASAP_656F.xlsx?1409433258"
+            }, 
+            "Geological Society\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/105/original/geological_final.xls?1380918504"
+            }, 
+            "Ski and Snowboard Club\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "NSBE\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/101/original/NSBE_721F.xlsx?1409434733"
+            }, 
+            "Students for Justice in Palestine\n": {
+                "FBid": "209875379148801", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/115/original/SJP_805F.xlsx?1409432945"
+            }, 
+            "TCU Senate\n": {
+                "FBid": "", 
+                "council": "student_government", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/127/original/TCU_SENATE_FY15_FINAL.xls?1409434250"
+            }, 
+            "AICHE\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/094/original/AIChE_704F.xls?1409434479"
+            }, 
+            "Black Student Union \n": {
+                "FBid": "364245860385270", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/167/original/BSU_FY15_-_final_budget.xlsx?1409434913"
+            }, 
+            "Dream\n": {
+                "FBid": "1553177504937338", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/149/original/Dream_661F.xlsx?1409433389"
+            }, 
+            "Culinary Society\n": {
+                "FBid": "135161289851973", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/077/original/TuftsCulinarySociety_632F.xlsx?1409431894"
+            }, 
+            "Melisma Music Magazine\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/027/original/MELISMA__FY15_Final.xlsx?1409430774"
+            }, 
+            "SALAAM\n": {
+                "FBid": "", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/138/original/SALAAM_FY15_Final.xlsx?1409431274"
+            }, 
+            "Ballroom Dance\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/065/original/Ballroom_602F.xlsx?1409431387"
+            }, 
+            "Hemispheres\n": {
+                "FBid": "165023793577358", 
+                "council": "media", 
+                "budgetURL": "/budgets/original/missing.png"
+            }, 
+            "Timmy Global Health\n": {
+                "FBid": "278118262219100", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/072/original/Timmy_621F.xls?1409431752"
+            }, 
+            "TUTV\n": {
+                "FBid": "421263691276377", 
+                "council": "media", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/022/original/TUTV_Proposed_Budget_2014-15_Final.xlsx?1409430932"
+            }, 
+            "Vietnamese Students Club \n": {
+                "FBid": "131982890145593", 
+                "council": "cultural", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/166/original/VSC_FY15_Final_Budget.xlsx?1409434778"
+            }, 
+            "Pre-Dental Society\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/111/original/Predental_739F.xls?1409434987"
+            }, 
+            "Quidditch\n": {
+                "FBid": "143388672363576", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/086/original/Quidditch_649F.xlsx?1409432890"
+            }, 
+            "Crafts Center\n": {
+                "FBid": "154724257893039", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/048/original/CraftsCenter_512FY15.xls?1409511035"
+            }, 
+            "Baseball Analysis at Tufts\n": {
+                "FBid": "", 
+                "council": "service_and_miscellaneous", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/075/original/BaseballAnalysisatTufts_627F.xlsx?1409431855"
+            }, 
+            "TFG\n": {
+                "FBid": "", 
+                "council": "pre_professional", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/100/original/Tufts_Finance_Group_720F.xlsx?1409434707"
+            }, 
+            "Sustainability Collective\n": {
+                "FBid": "238740376157637", 
+                "council": "political", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/120/original/TSC_812F.xlsx?1409433194"
+            }, 
+            "Midnight at Tufts\n": {
+                "FBid": "181001045314033", 
+                "council": "programming", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/006/original/Midnight_Cafe_206_FY15.xlsx?1409430399"
+            }, 
+            "Chorale\n": {
+                "FBid": "", 
+                "council": "performance", 
+                "budgetURL": "http://s3.amazonaws.com/tcusenate/student_groups/budgets/000/000/046/original/Chorale_510FY15.xls?1409510884"
+            }
+        }
+    }, 
+    "groups": {
+        "TuftsClassof2015": 130730100305858, 
+        "TuftsTextbookExchange": 383445068415903, 
+        "TuftsClassof2017": 322242727853379, 
+        "TuftsClassof2018": 629457363732303, 
+        "TuftsClassof2016": 206357896085471
+    }
+}
